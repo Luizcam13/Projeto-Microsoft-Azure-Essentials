@@ -1,0 +1,15 @@
+Acessar o Portal do Azure:
+Faça login no Portal do Azure.
+Criar um Banco de Dados SQL do Azure:
+No painel do Azure, clique em “Criar um recurso” e selecione “Banco de Dados”.
+Escolha “Banco de Dados SQL” e clique em “Criar”.
+Configurar o Servidor e o Banco de Dados:
+Preencha os detalhes do servidor, como nome, região e método de autenticação.
+Configure o banco de dados, escolhendo o nome, o tamanho e o nível de serviço desejado.
+Configurar a Rede:
+Na aba de rede, configure as regras de firewall para permitir o acesso ao banco de dados.
+Você pode permitir que outros serviços do Azure acessem o banco de dados ou configurar IPs específicos.
+Revisar e Criar:
+Revise todas as configurações e clique em “Criar”. O Azure começará a provisionar o banco de dados.
+Conectar ao Banco de Dados:
+Use ferramentas como o SQL Server Management Studio (SSMS) ou o Azure Data Studio para se conectar ao banco de dados.
