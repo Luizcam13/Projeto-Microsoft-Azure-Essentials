@@ -1,0 +1,18 @@
+Criar uma Máquina Virtual
+Acesse o Portal do Azure: Entre no Portal do Azure.
+Criar um Recurso: Clique em “Criar um recurso” e selecione “Máquina Virtual”.
+Configurar a VM: Preencha as informações necessárias, como nome, região, imagem do sistema operacional, tamanho da VM, nome de usuário e senha.
+2. Configurar Conjuntos de Dimensionamento de Máquinas Virtuais
+Os Conjuntos de Dimensionamento de Máquinas Virtuais (VMSS) permitem criar e gerenciar um grupo de VMs com balanceamento de carga. Aqui estão os passos básicos12:
+
+Criar um Conjunto de Dimensionamento:
+No Portal do Azure, selecione “Criar um recurso” e pesquise por “Conjunto de dimensionamento de máquinas virtuais”.
+Preencha as informações básicas, como nome do conjunto, região, e detalhes da instância (imagem, tamanho, etc.).
+Configurar a Rede:
+Selecione a rede virtual existente ou crie uma nova.
+Configure o balanceador de carga, se necessário.
+Dimensionamento Automático:
+Configure as regras de dimensionamento automático para aumentar ou diminuir o número de VMs conforme a demanda.
+3. Gerenciar e Monitorar
+Monitoramento: Utilize o Azure Monitor para acompanhar o desempenho e a saúde das suas VMs.
+Gerenciamento: Use o Azure CLI ou PowerShell para gerenciar suas VMs e conjuntos de dimensionamento.
