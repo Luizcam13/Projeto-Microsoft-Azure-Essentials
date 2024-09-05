@@ -1,0 +1,19 @@
+A segurança e a gestão de identidade no Azure são fundamentais para proteger os recursos e dados na nuvem. Aqui estão alguns pontos-chave sobre como o Azure aborda esses aspectos:
+
+1. Identidade como Perímetro de Segurança
+A identidade é tratada como o perímetro de segurança primário. Isso significa que a proteção começa com a verificação de quem está acessando os recursos1.
+
+2. Gerenciamento Centralizado de Identidade
+Centralizar o gerenciamento de identidade ajuda a simplificar a administração e a aumentar a segurança. O Microsoft Entra ID (anteriormente conhecido como Azure Active Directory) é a solução do Azure para isso1.
+
+3. Logon Único (SSO)
+O logon único permite que os usuários acessem vários aplicativos com uma única autenticação, melhorando a experiência do usuário e a segurança2.
+
+4. Autenticação Multifator (MFA)
+A MFA adiciona uma camada extra de segurança, exigindo que os usuários forneçam mais de uma forma de verificação para acessar os recursos2.
+
+5. Controle de Acesso Baseado em Função (RBAC)
+O RBAC permite que você controle quem tem acesso a quais recursos, com base nas funções atribuídas aos usuários2.
+
+6. Gerenciamento de Identidade Privilegiada
+O gerenciamento de identidade privilegiada ajuda a proteger contas com altos níveis de acesso, reduzindo o risco de comprometimento
