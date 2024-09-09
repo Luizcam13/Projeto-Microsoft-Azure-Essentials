@@ -1,0 +1,7 @@
+Desligar recursos não utilizados: Identifique máquinas virtuais (VMs) ociosas e outros recursos com o Assistente do Azure. Desligar esses recursos pode gerar economias significativas1.
+Ajustar recursos subutilizados: Utilize o Assistente do Azure para encontrar recursos subutilizados e obter recomendações sobre como reconfigurá-los ou consolidá-los para reduzir custos1.
+Planos de economia do Azure: Considere adicionar um plano de economia para cargas de trabalho dinâmicas. Isso pode economizar até 65% em preços pré-pagos ao se comprometer a gastar um valor fixo por hora em serviços de computação por um ou três anos1.
+Reservar instâncias para cargas de trabalho consistentes: Pagar antecipadamente por um período de um ou três anos pode oferecer descontos de até 72% sobre o preço de pagamento conforme o uso1.
+Monitorar e analisar custos: Use o Microsoft Cost Management para monitorar e analisar sua fatura do Azure. Defina orçamentos e aloque gastos para suas equipes e projetos2.
+Utilizar a calculadora de preços do Azure: Estime os custos de seus próximos projetos usando a calculadora de preços do Azure e a calculadora de custo total de propriedade (TCO)2.
+Implementar políticas de governança de custos: Reduza os riscos de gastos excessivos implementando as melhores práticas de governança de gerenciamento de custos com o Microsoft Cloud Adoption Framework for Azure2.
