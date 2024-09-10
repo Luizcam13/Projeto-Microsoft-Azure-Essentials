@@ -1,0 +1,14 @@
+Gerenciar políticas de acesso no Azure é essencial para garantir a segurança e a conformidade dos recursos na nuvem. Aqui estão alguns pontos-chave sobre como fazer isso:
+
+Controle de Acesso Baseado em Função (RBAC)
+O RBAC do Azure permite gerenciar o acesso aos recursos do Azure atribuindo funções específicas a usuários, grupos ou entidades de serviço. Isso simplifica a manutenção das políticas de acesso e reduz erros de configuração1.
+
+Políticas do Azure (Azure Policy)
+O Azure Policy ajuda a criar, atribuir e gerenciar políticas que impõem condições específicas nos recursos. Por exemplo, você pode criar políticas para restringir o tipo de máquinas virtuais que podem ser criadas ou exigir que os dados sejam criptografados2.
+
+Conformidade no Azure
+O Azure oferece várias certificações de conformidade, como GDPR e ISO 27001, para ajudar as empresas a atender aos requisitos regulatórios e de segurança. Ferramentas como o Azure Compliance Manager ajudam a entender e gerenciar o estado de conformidade2.
+
+Melhores Práticas
+Azure Well-Architected Framework: Guia para projetar e operar cargas de trabalho na nuvem, cobrindo segurança, desempenho e otimização de custos.
+Azure Advisor: Serviço que fornece recomendações personalizadas para otimizar a segurança, desempenho e custo dos recursos
