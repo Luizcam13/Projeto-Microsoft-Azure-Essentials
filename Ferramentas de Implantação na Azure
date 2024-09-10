@@ -1,0 +1,6 @@
+A Azure oferece várias ferramentas e serviços para facilitar a implantação de aplicativos e infraestrutura. Aqui estão algumas das principais opções:
+
+Azure Pipelines: Parte do Azure DevOps, permite configurar pipelines de CI/CD (Integração Contínua/Entrega Contínua) para automatizar a construção, teste e implantação de aplicativos em várias plataformas, incluindo Kubernetes, VMs, Azure Functions e Aplicativos Web1.
+Ambientes de Implantação Azure: Permitem criar rapidamente ambientes de infraestrutura de aplicativos com modelos baseados em projetos. Esses ambientes são configuráveis para diferentes estágios de desenvolvimento, maximizando a segurança e a eficiência de custos2.
+Azure App Service: Oferece suporte a várias opções de implantação, incluindo endpoints Kudu, que permitem implantações contínuas e fornecem pontos de extremidade HTTP para implantação3.
+Essas ferramentas ajudam a simplificar e automatizar o processo de implantação, garantindo que os aplicativos sejam implantados de maneira eficiente e segura.
