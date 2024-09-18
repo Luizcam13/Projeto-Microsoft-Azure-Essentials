@@ -1,0 +1,7 @@
+O Azure Monitor é uma ferramenta poderosa para monitorar e gerenciar seus recursos no Azure. Ele oferece uma visão abrangente do desempenho e da integridade dos seus aplicativos e infraestrutura. 
+Aqui estão alguns dos principais recursos do Azure Monitor:
+Coleta de Dados: O Azure Monitor coleta métricas e logs de atividades automaticamente assim que você cria um recurso no Azure. Você pode configurar para coletar dados adicionais conforme necessário.
+Análise de Dados: Utilize o Metrics Explorer para analisar dados de métricas e o Log Analytics para consultar e analisar logs.
+Alertas e Ações: Configure alertas para ser notificado sobre problemas potenciais antes que eles afetem os usuários finais.
+Visualização: A seção de Monitoramento no portal do Azure fornece uma interface visual para acessar dados coletados e ferramentas de análise.
+Integração: O Azure Monitor se integra com outros serviços do Azure, como o Azure Arc, para fornecer uma solução de monitoramento centralizada.
